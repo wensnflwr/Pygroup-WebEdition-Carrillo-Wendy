@@ -1,5 +1,4 @@
 # Mensajes HTTP
-c0dc9d8
 
 Los mensajes HTTP, son los medios por los cuales se intercambian datos entre servidores y clientes. Hay dos tipos de mensajes: peticiones, enviadas por el cliente al servidor, para pedir el inicio de una acción; y respuestas, que son la respuesta del servidor. 
 
